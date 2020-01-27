@@ -31,7 +31,7 @@ p {
 #details{
     border-top: 1px solid red;
     display: block;
-    float: right;
+    float: left;
 
 }
 div {
